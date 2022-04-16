@@ -1,1 +1,1 @@
-# logistic_regession
+Logistic Regression: Social Network Ads
